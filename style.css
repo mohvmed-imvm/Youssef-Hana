@@ -376,7 +376,7 @@ a {
   direction: ltr;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   width: 100%;
-  aspect-ratio: .85;
+  aspect-ratio: 1.15;
   max-height: 580px;
   margin: auto;
   transform-style: preserve-3d;
@@ -1062,7 +1062,7 @@ a {
 
 @media (min-width: 900px) {
   .book {
-    aspect-ratio: 1.5;
+    aspect-ratio: 1.2;
   }
 }
 
@@ -1102,7 +1102,7 @@ a {
   }
 
 .book {
-  aspect-ratio: 1.15;
+  aspect-ratio: 1;
   max-height: none;
 }
 
