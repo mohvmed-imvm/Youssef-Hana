@@ -376,7 +376,7 @@ a {
   direction: ltr;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   width: 100%;
-  aspect-ratio: 1.1;
+  aspect-ratio: .85;
   max-height: 580px;
   margin: auto;
   transform-style: preserve-3d;
